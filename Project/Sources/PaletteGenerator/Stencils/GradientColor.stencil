@@ -1,0 +1,15 @@
+            /// {{ style }}
+            public static var colors: [UIColor] {
+                [
+{% for color in colors %}                    {{ color }}{% endfor %}
+                ]
+            }
+
+            public static var positions: [CGFloat] {
+                [{{ positions }}]
+            }
+
+            public static var locations: [GradientLocation] {
+                [Int](0..<colors.count).map { .init(color: colors[$0], location: positions[$0]) }
+            }
+        }

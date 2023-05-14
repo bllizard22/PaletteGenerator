@@ -1,0 +1,1 @@
+UIColor(light: UIColor(rgbaHex: {{ light }}), dark: UIColor(rgbaHex: {{ dark }})){{ cgColor }}{{ separator }}

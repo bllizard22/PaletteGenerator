@@ -1,0 +1,49 @@
+import UIKit
+
+public extension UIColor {
+
+    convenience init(
+        rgbaHex: Int
+    ) {
+        let red = CGFloat((rgbaHex >> 24) & 0xFF) / CGFloat(0xFF)
+        let green = CGFloat((rgbaHex >> 16) & 0xFF) / CGFloat(0xFF)
+        let blue = CGFloat((rgbaHex >> 8) & 0xFF) / CGFloat(0xFF)
+        let alpha = CGFloat((rgbaHex >> 0) & 0xFF) / CGFloat(0xFF)
+
+        self.init(red: red, green: green, blue: blue, alpha: alpha)
+    }
+
+    convenience init(light: UIColor, dark: UIColor) {
+        self.init { traitCollection in
+            switch traitCollection.userInterfaceStyle {
+                case .dark:
+                    return dark
+                case .light, .unspecified:
+                    return light
+                @unknown default:
+                    return light
+            }
+        }
+    }
+
+    convenience init?(light: UIColor?, dark: UIColor?) {
+        if let light = light,
+           let dark = dark {
+            self.init(light: light, dark: dark)
+        } else if let light = light {
+            self.init(cgColor: light.cgColor)
+        } else if let dark = dark {
+            self.init(cgColor: dark.cgColor)
+        } else {
+            return nil
+        }
+    }
+
+    func resolved(with traitCollection: UITraitCollection) -> UIColor {
+        return resolvedColor(with: traitCollection)
+    }
+}
+
+//This file was generated automatically. Don't modify.
+//swiftlint:disable identifier_name line_length
+public enum Palette {

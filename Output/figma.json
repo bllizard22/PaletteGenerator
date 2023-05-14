@@ -1,0 +1,820 @@
+{
+    "All": {
+        "black": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x000000FF"
+                }
+            ],
+            "key": "3d806517db6a3927e474552833113a5429d17b45",
+            "style": "SOLID"
+        },
+        "blue100": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xD4E2FCFF"
+                }
+            ],
+            "key": "8e453b41d54e9c9ab118f78ad845c488377b740b",
+            "style": "SOLID"
+        },
+        "blue200": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xA0BFF9FF"
+                }
+            ],
+            "key": "836bde4b7cb00f7d81d419a86d681aa08d865150",
+            "style": "SOLID"
+        },
+        "blue300": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x5B91F4FF"
+                }
+            ],
+            "key": "731915a38cc5be73857a945079cf3e1c62cb3425",
+            "style": "SOLID"
+        },
+        "blue400": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x276EF1FF"
+                }
+            ],
+            "key": "fefd780389500fcd8e8bd43ebf31708dd3180ab3",
+            "style": "SOLID"
+        },
+        "blue50": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xEEF3FEFF"
+                }
+            ],
+            "key": "d6fa888ac2ad9839acd7158363006ca771fa4fc7",
+            "style": "SOLID"
+        },
+        "blue500": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x1E54B7FF"
+                }
+            ],
+            "key": "9dc30fce7f2b727b72c73b70438777ccbff916bd",
+            "style": "SOLID"
+        },
+        "blue600": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x174291FF"
+                }
+            ],
+            "key": "be4a211da32f8cb9f1bc7327d7b6b4e8df42bf62",
+            "style": "SOLID"
+        },
+        "blue700": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x102C60FF"
+                }
+            ],
+            "key": "3bbf1af65a29ea712cb6d2b1af008e4f7789ce4b",
+            "style": "SOLID"
+        },
+        "brown100": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xEBE0DBFF"
+                }
+            ],
+            "key": "2056e7d06456931948ed8a1e84ee3f67e801f885",
+            "style": "SOLID"
+        },
+        "brown200": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xD2BBB0FF"
+                }
+            ],
+            "key": "57ddcbc37b4e8250e838c6e822bae5b562442816",
+            "style": "SOLID"
+        },
+        "brown300": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xB18977FF"
+                }
+            ],
+            "key": "5d37f31e296fc5ea0c7099826f6a85b5aac3f577",
+            "style": "SOLID"
+        },
+        "brown400": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x99644CFF"
+                }
+            ],
+            "key": "9e33f8dfad523e2ea8e965624d773d8e072175a3",
+            "style": "SOLID"
+        },
+        "brown50": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xF7F3F1FF"
+                }
+            ],
+            "key": "d532653ef6be578910adc4cbcaf9716fae7cdd72",
+            "style": "SOLID"
+        },
+        "brown500": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x744C3AFF"
+                }
+            ],
+            "key": "d5b1205cb0400f475c5e1d6a82fa9f120f4a606d",
+            "style": "SOLID"
+        },
+        "brown600": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x5C3C2EFF"
+                }
+            ],
+            "key": "0b08b166f730dd1e76ddd70a3e6b61ecfe65b770",
+            "style": "SOLID"
+        },
+        "brown700": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x3D281EFF"
+                }
+            ],
+            "key": "98f92c59837f28b92d43fd1eb58ac59c15cf01d2",
+            "style": "SOLID"
+        },
+        "gray100": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xEEEEEEFF"
+                }
+            ],
+            "key": "9f39310eade8053091a1aa43a0b5a46a85886ef0",
+            "style": "SOLID"
+        },
+        "gray200": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xE2E2E2FF"
+                }
+            ],
+            "key": "43a3045b5b11e64e47692c10eb646b35aa54fd81",
+            "style": "SOLID"
+        },
+        "gray300": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xCBCBCBFF"
+                }
+            ],
+            "key": "7b32e7d8adf544c7f6158b4d993668a943338573",
+            "style": "SOLID"
+        },
+        "gray400": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xAFAFAFFF"
+                }
+            ],
+            "key": "7c7aa09166b50f035c22542aafd91f0a3889b38e",
+            "style": "SOLID"
+        },
+        "gray50": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xF6F6F6FF"
+                }
+            ],
+            "key": "8f8d1f32d4460c90702292fe5ed4886810884d1f",
+            "style": "SOLID"
+        },
+        "gray500": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x757575FF"
+                }
+            ],
+            "key": "731dfb5d01501101e692c59501151d43451df85c",
+            "style": "SOLID"
+        },
+        "gray600": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x545454FF"
+                }
+            ],
+            "key": "2e1dd80dadda1b30de2038829a91877801cc044f",
+            "style": "SOLID"
+        },
+        "gray700": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x333333FF"
+                }
+            ],
+            "key": "fc91640446ee51383417e3a1565ba0eb7f00bdff",
+            "style": "SOLID"
+        },
+        "green100": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xDAF0E3FF"
+                }
+            ],
+            "key": "b66eea920ad18e10aa0876e8fc146a334fb98c4c",
+            "style": "SOLID"
+        },
+        "green200": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xAEDDC2FF"
+                }
+            ],
+            "key": "d21e2dae1d04232bdeb7ec26339838af2c6a5284",
+            "style": "SOLID"
+        },
+        "green300": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x73C496FF"
+                }
+            ],
+            "key": "f6e596845693b89ea0ec9e49823017c88f8fe564",
+            "style": "SOLID"
+        },
+        "green400": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x3AA76DFF"
+                }
+            ],
+            "key": "04e3a7eabb16d42f06a34e44eb1ed844056a4734",
+            "style": "SOLID"
+        },
+        "green50": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xF0F9F4FF"
+                }
+            ],
+            "key": "e2efebdb2f02af13b0b133ed535272ed399e80be",
+            "style": "SOLID"
+        },
+        "green500": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x368759FF"
+                }
+            ],
+            "key": "d012d6c66aa7b8b49f2820f8dd1a030c40a76a3a",
+            "style": "SOLID"
+        },
+        "green600": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x2B6B46FF"
+                }
+            ],
+            "key": "e50331dae911610b97db1672dfa01f8f9c68c250",
+            "style": "SOLID"
+        },
+        "green700": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x1C472FFF"
+                }
+            ],
+            "key": "761899ad47690f27779e8f7e260465b3b629f556",
+            "style": "SOLID"
+        },
+        "orange100": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xFBE2D6FF"
+                }
+            ],
+            "key": "8cc7b67752d9756db3e26ed2266bacfd8b44c519",
+            "style": "SOLID"
+        },
+        "orange200": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xF7BFA5FF"
+                }
+            ],
+            "key": "6251080c73151851b00d90ffffbed2bed9bca889",
+            "style": "SOLID"
+        },
+        "orange300": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xF19164FF"
+                }
+            ],
+            "key": "1f688f6b1f6b00314c3f633dc904e72154b21cf1",
+            "style": "SOLID"
+        },
+        "orange400": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xED6E33FF"
+                }
+            ],
+            "key": "967c6a284e53fce1108ecf69c6204de5102d80d5",
+            "style": "SOLID"
+        },
+        "orange50": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xFEF3EFFF"
+                }
+            ],
+            "key": "a351cd2fa55566fe3895cef6c0560e2b42803d15",
+            "style": "SOLID"
+        },
+        "orange500": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xB45427FF"
+                }
+            ],
+            "key": "5747e43802518337d10924486e7443fe2e87b35d",
+            "style": "SOLID"
+        },
+        "orange600": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x8E421FFF"
+                }
+            ],
+            "key": "6518d15b5eb7f25ca182406a0aad2ccec79b9dfe",
+            "style": "SOLID"
+        },
+        "orange700": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x5F2C14FF"
+                }
+            ],
+            "key": "0cf0ef354fe3b83f873bcb66446000a983fceefe",
+            "style": "SOLID"
+        },
+        "purple100": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xE3DDF2FF"
+                }
+            ],
+            "key": "7e74a62ea60d473e524f3bb9fc56ec8b024e5d59",
+            "style": "SOLID"
+        },
+        "purple200": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xC1B5E3FF"
+                }
+            ],
+            "key": "326d2eda8ff5d815b42b57fb391dbedfbe952c4d",
+            "style": "SOLID"
+        },
+        "purple300": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x957FCEFF"
+                }
+            ],
+            "key": "0d912d5944f18c7211b25b3d6e2e70ed6b75b6b2",
+            "style": "SOLID"
+        },
+        "purple400": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x7356BFFF"
+                }
+            ],
+            "key": "6927a555fc6172067fe0a598cc5bceb0798b3a9c",
+            "style": "SOLID"
+        },
+        "purple50": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xF4F1FAFF"
+                }
+            ],
+            "key": "bb22c3c7fb5d09048cf93ae6804615c4e7eea7a0",
+            "style": "SOLID"
+        },
+        "purple500": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x574191FF"
+                }
+            ],
+            "key": "ea278adc36c5e1aa65bf6a944a49d987735859e7",
+            "style": "SOLID"
+        },
+        "purple600": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x453473FF"
+                }
+            ],
+            "key": "9aafb882ff47658e6761e1c73efba3185b84f297",
+            "style": "SOLID"
+        },
+        "purple700": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x2E224CFF"
+                }
+            ],
+            "key": "a3f1b6a2f6c787ef1bcbaf048007fec4b5bafae9",
+            "style": "SOLID"
+        },
+        "red100": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xFADBD7FF"
+                }
+            ],
+            "key": "4ee4eabe062d71bc55bbbe1124bac0b9663e446a",
+            "style": "SOLID"
+        },
+        "red200": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xF4AFA7FF"
+                }
+            ],
+            "key": "66b2ba20c4530e68b8bdbd741c0a6599fe0a4c67",
+            "style": "SOLID"
+        },
+        "red300": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xEB7567FF"
+                }
+            ],
+            "key": "dc9fe4424bee268e27587d8ba331f2582c63d2fc",
+            "style": "SOLID"
+        },
+        "red400": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xD44333FF"
+                }
+            ],
+            "key": "4caa7e84cf1b9c2cf22d1f7217bc2cc9c0860b27",
+            "style": "SOLID"
+        },
+        "red50": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xFDF0EFFF"
+                }
+            ],
+            "key": "ea247f993fe44eaa838194c4d09b0efd300a791c",
+            "style": "SOLID"
+        },
+        "red500": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xAE372AFF"
+                }
+            ],
+            "key": "efeacab96d3c35525330494d82bb9fedff004979",
+            "style": "SOLID"
+        },
+        "red600": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x892C21FF"
+                }
+            ],
+            "key": "4262436d0525094dc9bffc35e2b0a2374dc880f3",
+            "style": "SOLID"
+        },
+        "red700": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x5C1D16FF"
+                }
+            ],
+            "key": "c75812664fbba5d4335cc4efd5b1219739afbf93",
+            "style": "SOLID"
+        },
+        "white": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xFFFFFFFF"
+                }
+            ],
+            "key": "50c86789abfacf047f366feef62fc465521ef728",
+            "style": "SOLID"
+        },
+        "yellow100": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xFFF2D9FF"
+                }
+            ],
+            "key": "dbb727b11acb2091fd00f4befd88e988c38ec185",
+            "style": "SOLID"
+        },
+        "yellow200": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xFFE3ACFF"
+                }
+            ],
+            "key": "79d3ccc5324e6aa3b6381a2b186c584e700e363e",
+            "style": "SOLID"
+        },
+        "yellow300": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xFFCF70FF"
+                }
+            ],
+            "key": "e35d1105abcda8bfeab02c5c180e1fa4ace4fdb9",
+            "style": "SOLID"
+        },
+        "yellow400": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xFFC043FF"
+                }
+            ],
+            "key": "633d05233ace573d394a390ebb9d0003ad13295d",
+            "style": "SOLID"
+        },
+        "yellow50": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xFFFAF0FF"
+                }
+            ],
+            "key": "415e77692226fce27223e94028f879744bbe4a28",
+            "style": "SOLID"
+        },
+        "yellow500": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xBC8B2CFF"
+                }
+            ],
+            "key": "f337bcf472438c97018d45cf749bf50f5066d4b7",
+            "style": "SOLID"
+        },
+        "yellow600": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x997328FF"
+                }
+            ],
+            "key": "5175f2de3ad0a420f30f6a2169390c97c12211c3",
+            "style": "SOLID"
+        },
+        "yellow700": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x664D1BFF"
+                }
+            ],
+            "key": "cb5d65958177d4cb24f4d117c89b21cd3cba269d",
+            "style": "SOLID"
+        }
+    },
+    "Gray": {
+        "tone100": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xEEEEEEFF"
+                }
+            ],
+            "key": "686042095b5d59423dd70bb371ddfebedc751e22",
+            "style": "SOLID"
+        },
+        "tone200": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xE2E2E2FF"
+                }
+            ],
+            "key": "62a66d2256d07a715f523dd3a9622393f3a8ce43",
+            "style": "SOLID"
+        },
+        "tone400": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xAFAFAFFF"
+                }
+            ],
+            "key": "efcfe3b7e08333a0da0678f4ae41dfa9459b08ab",
+            "style": "SOLID"
+        },
+        "tone50": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xF6F6F6FF"
+                }
+            ],
+            "key": "96f84be01ed897ab04d97a9c605040c41f6cfa12",
+            "style": "SOLID"
+        },
+        "tone500": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x757575FF"
+                }
+            ],
+            "key": "729a4d929e9dc7aa4aaee0354d098ba960a72913",
+            "style": "SOLID"
+        },
+        "tone600": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x545454FF"
+                }
+            ],
+            "key": "e34362ceacc8e7e8291220c8a1386098cd53ab1b",
+            "style": "SOLID"
+        }
+    },
+    "Primary": {
+        "black": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x000000FF"
+                }
+            ],
+            "key": "c5b592cf7ec2c21ba8dbfc29d9172d7b30abf825",
+            "style": "SOLID"
+        },
+        "white": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xFFFFFFFF"
+                }
+            ],
+            "key": "97472643f7c4fdf068554d8f6f6f59e5112372b7",
+            "style": "SOLID"
+        }
+    },
+    "Secondary": {
+        "blue": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x276EF1FF"
+                }
+            ],
+            "key": "4de5e55579e8241be46869301f41d5278259f2b9",
+            "style": "SOLID"
+        },
+        "brown": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x99644CFF"
+                }
+            ],
+            "key": "ea4dc0f4310b11d4fb4a0c3c4ddf7ea818222fcf",
+            "style": "SOLID"
+        },
+        "green": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x3AA76DFF"
+                }
+            ],
+            "key": "b02fa0d4ce986dcd8df7f4860e0043a1e9e0704a",
+            "style": "SOLID"
+        },
+        "orange": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xED6E33FF"
+                }
+            ],
+            "key": "45834cde9e595fc9bbae876c619accba4e044d53",
+            "style": "SOLID"
+        },
+        "purple": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0x7356BFFF"
+                }
+            ],
+            "key": "3441952b7381a83211417ee8602dabda5b30cde9",
+            "style": "SOLID"
+        },
+        "red": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xD44333FF"
+                }
+            ],
+            "key": "3dcdbee3c555aaff908c353463368cf0b2935527",
+            "style": "SOLID"
+        },
+        "yellow": {
+            "colors": [
+                {
+                    "dark": "null",
+                    "light": "0xFFC043FF"
+                }
+            ],
+            "key": "2b46cb56614194a1ae618af6baf38cc11a65a467",
+            "style": "SOLID"
+        }
+    }
+}

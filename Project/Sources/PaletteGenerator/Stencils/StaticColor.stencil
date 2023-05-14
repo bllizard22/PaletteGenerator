@@ -1,0 +1,1 @@
+UIColor(rgbaHex: {{ color }}){{ cgColor }}{{ separator }}

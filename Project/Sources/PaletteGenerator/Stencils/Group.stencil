@@ -1,0 +1,4 @@
+
+    // MARK: - {{ group }}
+
+    public enum {{ group }} {

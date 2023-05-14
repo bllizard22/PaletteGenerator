@@ -1,0 +1,2 @@
+
+        {% if details.style == "SOLID" %}public static var {{ token }}: UIColor { {% else %}public enum {{ token }} { {% endif %}
