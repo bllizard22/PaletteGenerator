@@ -6,6 +6,7 @@ import converter
 # Example made with copy of Uber Base Design System
 # https://www.figma.com/file/hYiSlGpd2dHIQjfWqSgfDA/
 FIGMA_FILE_NAME = "hYiSlGpd2dHIQjfWqSgfDA"
+# https://www.figma.com/developers/api#access-tokens -> '+ Get personal access token'
 FIGMA_TOKEN = {"X-Figma-Token": ""} # <--- insert your token here
 
 

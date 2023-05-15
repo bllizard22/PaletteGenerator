@@ -1,5 +1,5 @@
             /// {{ style }}
-            public static var colors: [UIColor] {
+            public static var colors: [{{ type }}] {
                 [
 {% for color in colors %}                    {{ color }}{% endfor %}
                 ]

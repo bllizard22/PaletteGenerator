@@ -61,7 +61,7 @@ final class Generator {
                             case "SOLID":
                                 output.append(getRenderedSolid(from: styles))
                             case "GRADIENT_LINEAR", "GRADIENT_ANGULAR":
-                                output.append(getRenderedGradient(from: styles))
+                                output.append(getRenderedGradient(from: styles, type: .uiColor))
                             default:
                                 prettyPrint("Error with style - \(style)")
                         }
@@ -197,7 +197,7 @@ final class Generator {
         return output
     }
 
-    private func getRenderedGradient(from dict: [String: Any]) -> String {
+    private func getRenderedGradient(from dict: [String: Any], type: ColorType) -> String {
         var newdict = dict
         guard let colors = dict["colors"] as? [[String: Any]] else {
             prettyPrint("Error with colors in \(dict)")
@@ -210,9 +210,11 @@ final class Generator {
             if index != colors.endIndex-1 {
                 value["separator"] = ","
             }
-            colorsRaw.append(getColor(from: value, withType: .uiColor))
+            colorsRaw.append(getColor(from: value, withType: type))
         }
         colorsRaw.indices.last.map { colorsRaw[$0] = String(colorsRaw[$0].dropLast(1)) }
+
+        newdict["type"] = type.rawValue
         newdict["colors"] = colorsRaw
         newdict["positions"] = (dict["positions"] as! [String]).joined(separator: ", ")
         let context = Context(dictionary: newdict)
