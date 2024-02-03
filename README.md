@@ -1,9 +1,13 @@
 # PaletteGenerator
 This tool helps:
 - Use Figma API to fetch [colors data](#Figma-API-fetcher)
- > Styles library should be published to enable API usage
+  > Styles library should be published to enable API usage
 - Rearrange it in case you have light/dark mode values
 - [Generate](#Swift-CodeGen) swift file from fetched data
+- Print out added, deleted and renamed tokens using 'key' parameter to compare
+  
+  <img width="600" alt="image" src="https://github.com/bllizard22/PaletteGenerator/assets/37974438/f25a8dcf-b309-4e6a-b6bb-83e21caa1d9a">
+
 
 ## Quick Start
 
